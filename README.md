@@ -1,1 +1,1 @@
-# jenkins-cicd-java-maven-demo
+# devops-java-maven
